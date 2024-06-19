@@ -10,7 +10,7 @@ A long-term goal of mine is to eventually travel through all the prefectures of 
 
 * Japanese Linguistics (and the changes therein)
 * Tokugawa Period Socio-Political Climate
-* Theological Epistemology
+* Theological Epistemology & Ontology
 * Indigineous Folklore/Myth
 
 ### Non-Academic Interests
