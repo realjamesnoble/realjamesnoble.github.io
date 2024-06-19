@@ -6,14 +6,14 @@ I am an avid enjoyer of Australian football (AFL) and the UFC. As I have family 
 
 A long-term goal of mine is to eventually travel through all the prefectures of Japan, with particular focus on Shikoku and the *shikoku henro* (Shikoku pilgrimage). During these travels, regular stops to local breweries - sake or otherwise - will hopefully be a regular occurance. 
 
-## Academic Interests
+### Academic Interests
 
 * Japanese Linguistics (and the changes therein)
 * Tokugawa Period Socio-Political Climate
 * Theological Epistemology
 * Indigineous Folklore/Myth
 
-## Non-Academic Interests
+### Non-Academic Interests
 
 * Photography/Videography
 * Camping/Fishing
