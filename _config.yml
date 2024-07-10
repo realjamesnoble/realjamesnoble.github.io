@@ -1,6 +1,6 @@
 theme: jekyll-theme-slate
 title: The Personal Page of James Noble
-description: Contains various information about myself: Academic research interests, personal interests, and any other relevant details. 
+description: Contains various information about myself. Academic research interests, personal interests, and any other relevant details. 
 plugins:
   - jemoji
 url: "https://realjamesnoble.github.io/"
